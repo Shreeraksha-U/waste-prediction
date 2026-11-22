@@ -1,7 +1,7 @@
 # Waste Generation Forecasting System (INNOVATE Hackathon)
 
 Forecasts waste generated per city/area so municipalities can see hotspots and plan bin placement.
-
+ #Qualified to last round 
 ## Structure
 - Backend/forecaster.py - data loading, forecasting, hotspot ranking, bin recommendations
 - Script/train.py - runs the pipeline, prints backtest metric
