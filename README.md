@@ -3,7 +3,7 @@
 Forecasts waste generated per city/area so municipalities can see hotspots and plan bin placement.
  
  
-Qualified to last round 
+## Qualified to last round 
  
 ## Structure
 - Backend/forecaster.py - data loading, forecasting, hotspot ranking, bin recommendations
